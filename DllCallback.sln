@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Callee", "Callee\Callee.vcxproj", "{F8BF5E2B-116A-4357-945C-DFFD0A5CAF7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallerLoad", "CallerLoad\CallerLoad.vcxproj", "{01ED5541-1567-4185-B9BD-7EF31335491A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallerLink", "CallerLink\CallerLink.vcxproj", "{70F4E4E6-6360-4AC4-BE7A-9E28026C0FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BF5E2B-116A-4357-945C-DFFD0A5CAF7C}.Debug|x64.ActiveCfg = Debug|x64
+		{F8BF5E2B-116A-4357-945C-DFFD0A5CAF7C}.Debug|x64.Build.0 = Debug|x64
+		{F8BF5E2B-116A-4357-945C-DFFD0A5CAF7C}.Release|x64.ActiveCfg = Release|x64
+		{F8BF5E2B-116A-4357-945C-DFFD0A5CAF7C}.Release|x64.Build.0 = Release|x64
+		{01ED5541-1567-4185-B9BD-7EF31335491A}.Debug|x64.ActiveCfg = Debug|x64
+		{01ED5541-1567-4185-B9BD-7EF31335491A}.Debug|x64.Build.0 = Debug|x64
+		{01ED5541-1567-4185-B9BD-7EF31335491A}.Release|x64.ActiveCfg = Release|x64
+		{01ED5541-1567-4185-B9BD-7EF31335491A}.Release|x64.Build.0 = Release|x64
+		{70F4E4E6-6360-4AC4-BE7A-9E28026C0FB6}.Debug|x64.ActiveCfg = Debug|x64
+		{70F4E4E6-6360-4AC4-BE7A-9E28026C0FB6}.Debug|x64.Build.0 = Debug|x64
+		{70F4E4E6-6360-4AC4-BE7A-9E28026C0FB6}.Release|x64.ActiveCfg = Release|x64
+		{70F4E4E6-6360-4AC4-BE7A-9E28026C0FB6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699C1A2F-D7F9-453E-B4D3-76415AA29A3B}
+	EndGlobalSection
+EndGlobal
